@@ -217,7 +217,7 @@ GameObject:
   - component: {fileID: 839690168}
   - component: {fileID: 839690167}
   m_Layer: 0
-  m_Name: Circle
+  m_Name: tamiz potta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
