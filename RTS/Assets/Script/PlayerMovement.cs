@@ -6,7 +6,8 @@ public class PlayerMovement : MonoBehaviour
     void Start()
 
     {
-        
+
+        Debug.Log("Hellow");
     }
 
     // Update is called once per frame
