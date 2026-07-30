@@ -11,6 +11,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float groundCheckRadius = 0.2f;
     [SerializeField] private LayerMask groundLayer;      // Layer for ground
 
+    private bool faceright = true;
     private Rigidbody2D rb;
     private bool isGrounded;
     private float moveInput;
@@ -47,7 +48,7 @@ public class PlayerMovement : MonoBehaviour
         
         float speed = Mathf.Abs(rb.linearVelocity.x);
         animator.SetFloat("speed", speed);
-
+        Handleflip();
     }
 
     private void FixedUpdate()
@@ -70,6 +71,19 @@ public class PlayerMovement : MonoBehaviour
             Gizmos.color = Color.red;
             Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
         }
+    }
+    private void Handleflip()
+    {
+        if (rb.linearVelocity.x > 0 && faceright == false)
+            flip();
+        else if (rb.linearVelocity.x < 0 && faceright == true)
+            flip();
+    }
+
+    private void flip()
+    {
+        transform.Rotate(0, 180, 0);
+        faceright = !faceright;
     }
 
 }
