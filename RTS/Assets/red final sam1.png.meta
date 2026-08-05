@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 0cd67c0a8b1424740bf534caf04c6eb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3895528839854042683
+    second: red final sam1_0
+  - first:
+      213: -661099890396350559
+    second: red final sam1_1
+  - first:
+      213: 1792677934983664599
+    second: red final sam1_2
+  - first:
+      213: 8487995564682008039
+    second: red final sam1_3
+  - first:
+      213: 8162148404003825712
+    second: red final sam1_4
+  - first:
+      213: -2403235592470319874
+    second: red final sam1_5
+  - first:
+      213: -260009957061370491
+    second: red final sam1_6
+  - first:
+      213: 418768041229879043
+    second: red final sam1_7
+  - first:
+      213: -3124331668635711764
+    second: red final sam1_8
+  - first:
+      213: -8962976817825120604
+    second: red final sam1_9
+  - first:
+      213: 4634797442303614153
+    second: red final sam1_10
+  - first:
+      213: -2367084537378777377
+    second: red final sam1_11
+  - first:
+      213: 3106843744650189448
+    second: red final sam1_12
+  - first:
+      213: -8380793993267747062
+    second: red final sam1_13
+  - first:
+      213: 7396981354750809006
+    second: red final sam1_14
+  - first:
+      213: 5861376530383376389
+    second: red final sam1_15
+  - first:
+      213: 1923967945751137405
+    second: red final sam1_16
+  - first:
+      213: 6482931644077473050
+    second: red final sam1_17
+  - first:
+      213: 1749438236931996930
+    second: red final sam1_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red final sam1_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 255
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e2ac727d2bf0630800000000000000
+      internalID: 3895528839854042683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 255
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a730eff62d43d6f0800000000000000
+      internalID: -661099890396350559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 255
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3d167751fd0e810800000000000000
+      internalID: 1792677934983664599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_3
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 255
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e556f7aefa6bc570800000000000000
+      internalID: 8487995564682008039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 255
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0386ba08ab6c54170800000000000000
+      internalID: 8162148404003825712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_5
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 255
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc2b3726fdf5aed0800000000000000
+      internalID: -2403235592470319874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_6
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 255
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dda475252446cf0800000000000000
+      internalID: -260009957061370491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_7
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 255
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3070bc49053cfc500800000000000000
+      internalID: 418768041229879043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_8
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 255
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6077a96e424a4d0800000000000000
+      internalID: -3124331668635711764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 127
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aef873721c1d9380800000000000000
+      internalID: -8962976817825120604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 135
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc5562b7bb125040800000000000000
+      internalID: 4634797442303614153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 134
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6d734972d662fd0800000000000000
+      internalID: -2367084537378777377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 137
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ad48ccce9bd1b20800000000000000
+      internalID: 3106843744650189448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_13
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 136
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a076c87344071bb80800000000000000
+      internalID: -8380793993267747062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea31c1ce95b57a660800000000000000
+      internalID: 7396981354750809006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500105446eac75150800000000000000
+      internalID: 5861376530383376389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_16
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c0cbd27ae43ba10800000000000000
+      internalID: 1923967945751137405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_17
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d70647bfff7f950800000000000000
+      internalID: 6482931644077473050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red final sam1_18
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 0
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d31dcbec0474810800000000000000
+      internalID: 1749438236931996930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      red final sam1_0: 3895528839854042683
+      red final sam1_1: -661099890396350559
+      red final sam1_10: 4634797442303614153
+      red final sam1_11: -2367084537378777377
+      red final sam1_12: 3106843744650189448
+      red final sam1_13: -8380793993267747062
+      red final sam1_14: 7396981354750809006
+      red final sam1_15: 5861376530383376389
+      red final sam1_16: 1923967945751137405
+      red final sam1_17: 6482931644077473050
+      red final sam1_18: 1749438236931996930
+      red final sam1_2: 1792677934983664599
+      red final sam1_3: 8487995564682008039
+      red final sam1_4: 8162148404003825712
+      red final sam1_5: -2403235592470319874
+      red final sam1_6: -260009957061370491
+      red final sam1_7: 418768041229879043
+      red final sam1_8: -3124331668635711764
+      red final sam1_9: -8962976817825120604
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
