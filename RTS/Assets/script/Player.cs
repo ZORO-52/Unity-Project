@@ -4,10 +4,18 @@ public class Player : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Animator anim;
+
+    [HeaderAttribute("Movement details")]
     [SerializeField] private float moveSpeed = 3.5f;
     [SerializeField] private float jumpForce = 8;
     private float xInput;
     private bool faceright = true;
+    [HeaderAttribute("Collision details")]
+    [SerializeField] private float groundCheckDistance;
+    [SerializeField] private bool isGrounded;
+    [SerializeField] private LayerMask WhatIsGround;
+
+
 
     private void Awake()
     {
@@ -17,6 +25,7 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
+        HandleCollision();
         xInput = Input.GetAxisRaw("Horizontal");
         if (Input.GetKeyDown(KeyCode.UpArrow))
             Jump();
@@ -37,7 +46,10 @@ public class Player : MonoBehaviour
 
     private void Jump()
     {
-        rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+        if (isGrounded)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+        }
     }
     private void Handleflip()
     {
@@ -46,11 +58,18 @@ public class Player : MonoBehaviour
         else if (rb.linearVelocity.x < 0 && faceright == true)
             flip();
     }
-
+    private void HandleCollision()
+    {
+        isGrounded = Physics2D.Raycast(transform.position, Vector2.down, groundCheckDistance, WhatIsGround);
+    }
     private void flip()
     {
         transform.Rotate(0, 180, 0);
         faceright = !faceright;
     }
 
+    private void OnDrawGizmos()
+    {
+        Gizmos.DrawLine(transform.position, transform.position + new Vector3(0, -groundCheckDistance));
+    }
 }
