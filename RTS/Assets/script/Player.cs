@@ -36,8 +36,10 @@ public class Player : MonoBehaviour
     }
     private void Handleanimation()
     {
-        bool ismove = rb.linearVelocity.x != 0;
-        anim.SetBool("ismove", ismove);
+        
+        anim.SetFloat("xvelocity", rb.linearVelocity.x);
+        anim.SetFloat("yvelocity", rb.linearVelocity.y);
+        anim.SetBool("isgrounded", isGrounded);
     }
     private void HandleMovement()
     {

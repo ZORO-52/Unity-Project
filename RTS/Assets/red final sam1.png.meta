@@ -170,12 +170,12 @@ TextureImporter:
       name: red final sam1_0
       rect:
         serializedVersion: 2
-        x: 66
-        y: 255
-        width: 61
-        height: 99
-      alignment: 9
-      pivot: {x: 0.5159363, y: 0.50490993}
+        x: 0
+        y: 256
+        width: 192
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -192,12 +192,12 @@ TextureImporter:
       name: red final sam1_1
       rect:
         serializedVersion: 2
-        x: 258
-        y: 255
-        width: 63
-        height: 100
+        x: 192
+        y: 256
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -214,12 +214,12 @@ TextureImporter:
       name: red final sam1_2
       rect:
         serializedVersion: 2
-        x: 452
-        y: 255
-        width: 62
-        height: 100
+        x: 384
+        y: 256
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -236,12 +236,12 @@ TextureImporter:
       name: red final sam1_3
       rect:
         serializedVersion: 2
-        x: 646
-        y: 255
-        width: 61
-        height: 101
+        x: 576
+        y: 256
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -258,12 +258,12 @@ TextureImporter:
       name: red final sam1_4
       rect:
         serializedVersion: 2
-        x: 836
-        y: 255
-        width: 61
-        height: 99
+        x: 768
+        y: 256
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -280,12 +280,12 @@ TextureImporter:
       name: red final sam1_5
       rect:
         serializedVersion: 2
-        x: 1023
-        y: 255
-        width: 63
-        height: 99
+        x: 960
+        y: 256
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -302,12 +302,12 @@ TextureImporter:
       name: red final sam1_6
       rect:
         serializedVersion: 2
-        x: 1215
-        y: 255
-        width: 66
-        height: 100
+        x: 1152
+        y: 256
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -324,12 +324,12 @@ TextureImporter:
       name: red final sam1_7
       rect:
         serializedVersion: 2
-        x: 1416
-        y: 255
-        width: 58
-        height: 100
+        x: 1344
+        y: 256
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -346,12 +346,12 @@ TextureImporter:
       name: red final sam1_8
       rect:
         serializedVersion: 2
-        x: 1607
-        y: 255
-        width: 60
-        height: 101
+        x: 1536
+        y: 256
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -368,12 +368,12 @@ TextureImporter:
       name: red final sam1_9
       rect:
         serializedVersion: 2
-        x: 70
-        y: 127
-        width: 80
-        height: 85
+        x: 0
+        y: 128
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -390,12 +390,12 @@ TextureImporter:
       name: red final sam1_10
       rect:
         serializedVersion: 2
-        x: 263
-        y: 135
-        width: 81
-        height: 96
+        x: 192
+        y: 128
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -412,12 +412,12 @@ TextureImporter:
       name: red final sam1_11
       rect:
         serializedVersion: 2
-        x: 449
-        y: 134
-        width: 84
-        height: 97
+        x: 384
+        y: 128
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -434,12 +434,12 @@ TextureImporter:
       name: red final sam1_12
       rect:
         serializedVersion: 2
-        x: 640
-        y: 137
-        width: 84
-        height: 98
+        x: 576
+        y: 128
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -456,12 +456,12 @@ TextureImporter:
       name: red final sam1_13
       rect:
         serializedVersion: 2
-        x: 835
-        y: 136
-        width: 85
-        height: 98
+        x: 768
+        y: 128
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -478,12 +478,12 @@ TextureImporter:
       name: red final sam1_14
       rect:
         serializedVersion: 2
-        x: 71
+        x: 0
         y: 0
-        width: 46
-        height: 98
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -500,12 +500,12 @@ TextureImporter:
       name: red final sam1_15
       rect:
         serializedVersion: 2
-        x: 262
+        x: 192
         y: 0
-        width: 48
-        height: 99
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -522,12 +522,12 @@ TextureImporter:
       name: red final sam1_16
       rect:
         serializedVersion: 2
-        x: 451
+        x: 384
         y: 0
-        width: 54
-        height: 100
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -544,12 +544,12 @@ TextureImporter:
       name: red final sam1_17
       rect:
         serializedVersion: 2
-        x: 644
+        x: 576
         y: 0
-        width: 54
-        height: 99
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -566,12 +566,12 @@ TextureImporter:
       name: red final sam1_18
       rect:
         serializedVersion: 2
-        x: 838
+        x: 768
         y: 0
-        width: 48
-        height: 97
+        width: 192
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
