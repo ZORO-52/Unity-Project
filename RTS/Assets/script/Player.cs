@@ -27,7 +27,7 @@ public class Player : MonoBehaviour
     {
         HandleCollision();
         xInput = Input.GetAxisRaw("Horizontal");
-        if (Input.GetKeyDown(KeyCode.UpArrow))
+        if ((Input.GetKeyDown(KeyCode.UpArrow)) || (Input.GetKeyDown("space")))
             Jump();
         HandleMovement();
         Handleanimation();
