@@ -15,8 +15,6 @@ public class Player : MonoBehaviour
     [SerializeField] private bool isGrounded;
     [SerializeField] private LayerMask WhatIsGround;
 
-
-
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
