@@ -1,22 +1,19 @@
 fileFormatVersion: 2
-guid: c5e25329b7af1c04391650481ae39c70
+guid: a18d08eea518a4d43afc4570eebf0780
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 938448055350152811
-    second: Red_landing_0
+      213: -4832141028155332955
+    second: real landedd_0
   - first:
-      213: -1093232177659870951
-    second: Red_landing_1
+      213: 5787178331612830242
+    second: real landedd_1
   - first:
-      213: -538366174227245690
-    second: Red_landing_2
+      213: -50494951867697903
+    second: real landedd_2
   - first:
-      213: 6697864357317575263
-    second: Red_landing_3
-  - first:
-      213: 7868894642418341517
-    second: Red_landing_4
+      213: -1324573666483396017
+    second: real landedd_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -63,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 35
+  spritePixelsToUnits: 50
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -125,7 +122,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Red_landing_0
+      name: real landedd_0
       rect:
         serializedVersion: 2
         x: 0
@@ -140,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6e4d43c889060d00800000000000000
-      internalID: 938448055350152811
+      spriteID: 5a6e5303659c0fcb0800000000000000
+      internalID: -4832141028155332955
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_landing_1
+      name: real landedd_1
       rect:
         serializedVersion: 2
         x: 192
@@ -162,14 +159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9118e89602f04d0f0800000000000000
-      internalID: -1093232177659870951
+      spriteID: 22ade93e700305050800000000000000
+      internalID: 5787178331612830242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_landing_2
+      name: real landedd_2
       rect:
         serializedVersion: 2
         x: 384
@@ -184,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 685591221d65788f0800000000000000
-      internalID: -538366174227245690
+      spriteID: 115b9fadb1b9c4ff0800000000000000
+      internalID: -50494951867697903
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_landing_3
+      name: real landedd_3
       rect:
         serializedVersion: 2
         x: 576
@@ -206,8 +203,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f520aab652893fc50800000000000000
-      internalID: 6697864357317575263
+      spriteID: f42ab6aa44b2e9de0800000000000000
+      internalID: -1324573666483396017
       vertices: []
       indices: 
       edges: []
@@ -216,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f401b4bda346f884f9aaeb150b6614fb
+    spriteID: d56be2c917fdedf49bead8c3b61e0d44
     internalID: 0
     vertices: []
     indices: 
@@ -226,10 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Red_landing_0: 938448055350152811
-      Red_landing_1: -1093232177659870951
-      Red_landing_2: -538366174227245690
-      Red_landing_3: 6697864357317575263
+      real landedd_0: -4832141028155332955
+      real landedd_1: 5787178331612830242
+      real landedd_2: -50494951867697903
+      real landedd_3: -1324573666483396017
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
