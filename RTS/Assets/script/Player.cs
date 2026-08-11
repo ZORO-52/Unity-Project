@@ -23,14 +23,20 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
+        input();
         HandleCollision();
-        xInput = Input.GetAxisRaw("Horizontal");
-        if ((Input.GetKeyDown(KeyCode.UpArrow)) || (Input.GetKeyDown("space")))
-            Jump();
         HandleMovement();
         Handleanimation();
         Handleflip();
 
+    }
+    private void input()
+    {
+        xInput = Input.GetAxisRaw("Horizontal");
+        if ((Input.GetKeyDown(KeyCode.UpArrow)) || (Input.GetKeyDown("space")))
+            TryToJump();
+        if(Input.GetKeyDown(KeyCode.Mouse0))
+            TryToAttack();
     }
     private void Handleanimation()
     {
@@ -39,12 +45,20 @@ public class Player : MonoBehaviour
         anim.SetFloat("yvelocity", rb.linearVelocity.y);
         anim.SetBool("isgrounded", isGrounded);
     }
+
+    private void TryToAttack()
+    {
+        if (isGrounded)
+        {
+            anim.SetTrigger("attack");
+        }
+    }
     private void HandleMovement()
     {
         rb.linearVelocity = new Vector2(xInput * moveSpeed, rb.linearVelocity.y);
     }
 
-    private void Jump()
+    private void TryToJump()
     {
         if (isGrounded)
         {
