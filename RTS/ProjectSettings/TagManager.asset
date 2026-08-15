@@ -41,5 +41,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: GR2
+    uniqueID: 865873383
+    locked: 0
+  - name: TREES 1
+    uniqueID: 4284944713
+    locked: 0
+  - name: GR1
+    uniqueID: 2707715331
+    locked: 0
+  - name: PLATFORM
+    uniqueID: 744934931
+    locked: 0
+  - name: PLAYER
+    uniqueID: 1371021077
+    locked: 0
   m_RenderingLayers:
   - Default
