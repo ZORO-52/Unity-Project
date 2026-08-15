@@ -41,6 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Sky
+    uniqueID: 3945764311
+    locked: 0
+  - name: Cloud
+    uniqueID: 2139168351
+    locked: 0
   - name: GR2
     uniqueID: 865873383
     locked: 0
