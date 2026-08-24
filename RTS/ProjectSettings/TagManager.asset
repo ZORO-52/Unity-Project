@@ -59,8 +59,14 @@ TagManager:
   - name: TREES 1
     uniqueID: 4284944713
     locked: 0
+  - name: Bush
+    uniqueID: 1330375079
+    locked: 0
   - name: PLATFORM
     uniqueID: 744934931
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2287676781
     locked: 0
   - name: PLAYER
     uniqueID: 1371021077
